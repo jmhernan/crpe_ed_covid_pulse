@@ -37,7 +37,6 @@
  |PSCHNG6 | Thinking of all the members of your household who were planning to take classes from a college, university, community college, trade school, or other occupational school this fall, has the coronavirus pandemic resulted in any of the changes listed below? Select all that apply. -Classes will be taken from a different institution.|
  |PSCHNG7 | Thinking of all the members of your household who were planning to take classes from a college, university, community college, trade school, or other occupational school this fall, has the coronavirus pandemic resulted in any of the changes listed below? Select all that apply. -Classes will be taken for a different kind of certificate or degree.|
  |PSWHYCHG1 | Why did household members’ plans to take classes this fall change? Select all that apply. -Had coronavirus or concerns about getting  coronavirus |
- |PSWHYCHG1 | Why did household members’ plans to take classes this fall change? Select all that apply. -Had coronavirus or concerns about getting  coronavirus |
  |PSWHYCHG2 | Why did household members’ plans to take classes this fall change? Select all that apply. -Caring for someone with coronavirus|
  |PSWHYCHG3 | Why did household members’ plans to take classes this fall change? Select all that apply. -Caring for others whose care arrangements are disrupted (e.g., loss of day care or adult care programs)|
  |PSWHYCHG4 | Why did household members’ plans to take classes this fall change? Select all that apply. -Institution changed content or format of classes (e.g., from in-person to online)|
@@ -46,4 +45,3 @@
  |PSWHYCHG7 | Why did household members’ plans to take classes this fall change? Select all that apply. -Uncertainty about how classes/program might change|
  |PSWHYCHG8 | Why did household members’ plans to take classes this fall change? Select all that apply. -Not able to pay for classes/educational expenses because of changes to income from the pandemic|
  |PSWHYCHG9 | Why did household members’ plans to take classes this fall change? Select all that apply. -Some other reason related to the pandemic, please specify|
-
