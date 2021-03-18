@@ -2,20 +2,23 @@
  
  |Column| Description|
  |------|------------|
-|TEACH1-5 | How has the coronavirus pandemic affected how the children in this household received education? Select all that apply.|
-|COMPAVAIL | How often is a computer or other digital device available to children for educational purposes?  Select only one answer.|
-|COMP1-3 | Is the computer or other digital device …? Select all that apply. - Provided by the children’s school or school district to use outside of school.|
-|INTRNTAVAIL | How often is the Internet available to children for educational purposes?  Select only one answer.|
-|INTRNT1-3 | Are Internet services …? Select all that apply. - Paid for by the children’s school or school district.|
-|TSCHLHRS | During the last 7 days, about how many hours did the student have live contact either by phone or video with their teachers? Enter number of hours (if none, enter zero).|
-|TTCH_HRS | Including hours spent during weekdays and weekends, about how many hours did household members spend on ALL teaching activities with the children in this household during the last 7 days? Enter number of hours (if none, enter zero).|
-|EEDUC | What is the highest degree or level of school you have completed? Select only one answer.|
-|ENROLL1-3 | At any time during February 2020, were any children in this household enrolled in a public school, enrolled in a private school, or educated in a homeschool setting in Kindergarten through 12th grade or grade equivalent? Select all that apply.|
-
-```
-education_columns = c('TEACH1', 'TEACH2', 'TEACH3', 'TEACH4', 'TEACH5', 'COMPAVAIL', 'COMP1', 'COMP2', 'COMP3', 'INTRNTAVAIL',
-  'INTRNT1', 'INTRNT2', 'INTRNT3', 'TSCHLHRS', 'TTCH_HRS', 'EEDUC', 'ENROLL1', 'ENROLL2', 'ENROLL3')
-```
-
-We have only covered the first few data dictionaries. Other weeks contain information on the other [Education data tables found here.](https://www.census.gov/data/tables/2021/demo/hhp/hhp22.html#tables)
-
+ |EEDUC | What is the highest degree or level of school you have completed? Select only one answer.|
+ |ENROLL1 | At any time during the 2020-2021 school year, were, or will, any children in this household enrolled in a public school, enrolled in a private school, or educated in a homeschool setting in Kindergarten through 12th grade or grade equivalent? Select all that apply. -Yes, enrolled in a public or private school|
+ |ENROLL2 | At any time during the 2020-2021 school year, were, or will, any children in this household enrolled in a public school, enrolled in a private school, or educated in a homeschool setting in Kindergarten through 12th grade or grade equivalent? Select all that apply. -Yes, homeschooled|
+ |ENROLL3 | At any time during the 2020-2021 school year, were, or will, any children in this household enrolled in a public school, enrolled in a private school, or educated in a homeschool setting in Kindergarten through 12th grade or grade equivalent? Select all that apply. -No|
+ |TEACH1 | How has the coronavirus pandemic affected how the children in this household received education for the 2020 – 2021 school year? Select all that apply. -Classes normally taught in person at the school were canceled|
+ |TEACH2 | How has the coronavirus pandemic affected how the children in this household received education for the 2020 – 2021 school year? Select all that apply. -Classes normally taught in person moved to a distance-learning format using online resources, either self-paced or in real time|
+ |TEACH3 | How has the coronavirus pandemic affected how the children in this household received education for the 2020 – 2021 school year? Select all that apply. -Classes normally taught in person moved to a distance-learning format using paper materials sent home to children|
+ |TEACH4 | How has the coronavirus pandemic affected how the children in this household received education for the 2020 – 2021 school year? Select all that apply. -Classes normally taught in person changed in some other way -- Please specify:|
+ |TEACH5 | How has the coronavirus pandemic affected how the children in this household received education for the 2020 – 2021 school year? Select all that apply. -There was no change because schools did not close |
+ |COMPAVAIL | How often is a computer or other digital device available to children for educational purposes?  Select only one answer.|
+ |COMP1 | Is the computer or other digital device …? Select all that apply -Provided by the children’s school or school district to use outside of school|
+ |COMP2 | Is the computer or other digital device …? Select all that apply -Provided by someone in the household or family, or it is the child’s|
+ |COMP3 | Is the computer or other digital device …? Select all that apply -Provided by another source|
+ |INTRNTAVAIL | How often is the Internet available to children for educational purposes?  Select only one answer.|
+ |INTRNT1 | Are Internet services …? Select all that apply. -Paid for by the children’s school or school district |
+ |INTRNT2 | Are Internet services …? Select all that apply. -Paid for by someone in the household or family|
+ |INTRNT3 | Are Internet services …? Select all that apply. -Paid for by another source|
+ |SCHLHRS | During the last 7 days, on how many days did the student(s) have live contact either by phone or video with their teachers? Select only one answer.|
+ |TSTDY_HRS | During the last 7 days, about how many hours did the student(s) spend doing learning activities on their own? Do not include time spent with teachers or other household members. Enter the total number of hours for all students. If none, enter 0.|
+ |TCH_HRS | During the last 7 days, about how much time did the student(s) typically spend on all learning activities relative to a school day before the coronavirus pandemic? Select only one answer.|
